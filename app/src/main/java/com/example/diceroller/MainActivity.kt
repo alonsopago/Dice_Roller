@@ -109,7 +109,6 @@ class MainActivity : AppCompatActivity() {
                 rollButton.visibility = View.VISIBLE
             }
         }
-        //rollButton.isEnabled = false
         timer.start()
     }
 }
